@@ -39,6 +39,7 @@
                                 <li><a href="history.php">About</a>
                                     <ul class="rd-navbar-dropdown">
                                         <li><a href="history.php">History</a></li>
+                                        <li><a href="#">VMG</a></li>
                                     </ul>
                                 </li>
                                 <li class="rd-navbar--has-dropdown rd-navbar-submenu"><a href="#">Course</a>
