@@ -62,7 +62,7 @@
         </div>
         <div class="section-5 bg-madison context-dark novi-background">
             <div class="shell text-md-left">
-                <p class="">© <span class="copyright-year">2019</span> All Rights Reserved Terms of Use and <a href="privacy.html">Privacy Policy.</a><span> Design&nbsp;by Patshala</span></p>
+                <p class="">© <span class="copyright-year">2019</span> All Rights Reserved.</a></p>
             </div>
         </div>
     </div>

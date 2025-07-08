@@ -10,7 +10,7 @@
                                 <div class="cell-md-3">
                                     <div class="unit unit-horizontal unit-top unit-spacing-xs">
                                         <div class="unit-left"><span class="icon novi-icon mdi mdi-phone text-middle"></span></div>
-                                        <div class="unit-body"><a class="reveal-block" href="tel:#">0985 506 9544</a></div>
+                                        <div class="unit-body"><a class="reveal-block" href="tel:#">0985 506 9544</a> <a class="reveal-block" href="tel:#">0905 601 3020</a></div>
                                     </div>
                                 </div>
                                 <div class="cell-md-3 text-center">
@@ -32,7 +32,7 @@
                     <div class="rd-navbar-nav-wrap">
                         <div class="rd-navbar-mobile-scroll">
                             <div class="rd-navbar-mobile-header-wrap">
-                                <div class="rd-navbar-mobile-brand"><a href="index.html"><img src="images/logo-bottom.png" alt="" srcset="images/logo-bottom.png 2"></a></div>
+                                <div class="rd-navbar-mobile-brand"><a href="index.php"><img src="images/logo-bottom.png" alt="" srcset="images/logo.png 2"></a></div>
                             </div>
                             <ul class="rd-navbar-nav">
                                 <li><a href="index.php">Home</a></li>
@@ -41,18 +41,20 @@
                                         <li><a href="history.php">History</a></li>
                                     </ul>
                                 </li>
-                                <li class="rd-navbar--has-dropdown rd-navbar-submenu"><a href="course-grid.html">Course</a>
+                                <li class="rd-navbar--has-dropdown rd-navbar-submenu"><a href="#">Course</a>
                                     <ul class="rd-navbar-dropdown rd-navbar-open-right" style="">
-                                        <li><a href="course-grid.html">Course Page</a></li>
-                                        <li><a href="course-details.html">Course Details Page</a></li>
+                                        <li><a href="course-bs-crim.php">BS in Criminology</a></li>
+                                        <li><a href="course-btvted.php">BTVTEd</a></li>
+                                        <li><a href="course-tesda.php">TESDA Programs</a></li>
+                                        <li><a href="course-shs.php">SHS Program</a></li>
                                     </ul>
                                 </li>
-                                <li class="rd-navbar--has-dropdown rd-navbar-submenu"><a href="events.html">Events</a>
+                                <!-- <li class="rd-navbar--has-dropdown rd-navbar-submenu"><a href="events.html">Events</a>
                                     <ul class="rd-navbar-dropdown rd-navbar-open-right" style="">
                                         <li><a href="event-page.html">Event Details Page</a></li>
                                     </ul>
-                                </li>
-                                <li><a href="#">Pages</a>
+                                </li> -->
+                                <!-- <li><a href="#">Pages</a>
                                     <ul class="rd-navbar-dropdown">
                                         <li><a href="team.html">Lecturer</a></li>
                                         <li><a href="gallery.html">Gallery</a></li>
@@ -62,14 +64,9 @@
                                         <li><a href="search-results.html">Search Results</a></li>
                                         <li><a href="team-member-profile.html">Team Member Profile</a></li>
                                     </ul>
-                                </li>
-                                <li class="rd-navbar--has-dropdown rd-navbar-submenu"><a href="#">News</a>
-                                    <ul class="rd-navbar-dropdown rd-navbar-open-right" style="">
-                                        <li><a href="grid-news.html">Grid News</a></li>
-                                        <li><a href="news-post-page.html">News Post Page</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="contacts.html">Contacts</a></li>
+                                </li> -->
+
+                                <li><a href="contacts.php">Contacts</a></li>
                             </ul>
                             <div class="rd-navbar-search-mobile" id="rd-navbar-search-mobile">
                                 <form class="rd-navbar-search-form search-form-icon-right rd-search" action="search-results.html" method="GET">

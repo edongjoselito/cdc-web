@@ -42393,3 +42393,16 @@ html:not(.lt-ie10) .not-animated {
 		display: inline-flex;
 	}
 }
+
+/* Nonoy Added */
+
+body {
+    font-size: 18px;
+    line-height: 1.7;
+}
+h3, h5 {
+    font-size: 24px;
+}
+ul li {
+    margin-bottom: 10px;
+}

@@ -23,7 +23,7 @@
     <div class="page text-center">
         <?php include('includes/header.php'); ?>
 
-        <section class="section breadcrumb-modern context-dark parallax-container" data-parallax-img="images/parallax-03.jpg">
+        <section class="section breadcrumb-modern context-dark parallax-container" data-parallax-img="images/slide1.png">
             <div class="parallax-content section-30 section-sm-70">
                 <div class="shell">
                     <h2 class="veil reveal-sm-block">History</h2>
@@ -40,70 +40,39 @@
             <div class="shell">
                 <div class="range range-50">
                     <div class="cell-sm-4 cell-sm-push-2 text-sm-left">
-                        <div class="inset-sm-left-30"><img class="img-responsive reveal-inline-block img-rounded" src="images/users/user-christopher-smith-340x300.jpg" width="340" height="300" alt="">
+                        <div class="inset-sm-left-30"><img class="img-responsive reveal-inline-block img-rounded" src="images/president.png" width="340" height="300" alt="">
                             <div class="offset-top-20">
-                                <h6 class="text-primary text-bold">Christopher Smith</h6>
+                                <h6 class="text-primary text-bold">Aresio M. Agbong</h6>
                             </div>
-                            <p>First president of the James Whitaker University, served from 1876 to 1897.</p>
+                            <p>First president of the Colegio De Caraga, Inc.</p>
                         </div>
                     </div>
                     <div class="cell-sm-8 cell-sm-push-1 text-sm-left">
-                        <h2 class="text-bold">A Meeting of Minds</h2>
+                        <h2 class="text-bold">Then and Now</h2>
                         <hr class="divider bg-madison hr-sm-left-0">
                         <div class="offset-top-30 offset-sm-top-30">
-                            <p>The original board of trustees laid the groundwork for what would become today's James Whitaker University on July 9, 1876, when the group gathered to hold the University's inaugural board meeting and drafted the University's articles of incorporation. This guiding document outlined elements the founders believed would build an enduring legacy for the University: a commitment to offering a rigorous academic program and an ambition to provide "opportunities for all departments of higher education to persons of both sexes on equal terms." On September 10, 1876, the State of California issued the University's official certificate of incorporation, marking the formal beginning of the University's life.</p>
+                            <p>August 8, 1991, when many young people of Davao Oriental were at the brink of despair due to the exorbitant cost of acquiring a college education in other places, a group of young, dynamic and concerned Davaoeños, led by Mr. Aresio M. Agbong, worked on the establishment of a non-stock, non-sectarian, and non-profit educational institution, with the poor as its main beneficiaries.</p>
                         </div>
-                        <p>An initial pledge of $600,000 (roughly $16 million in today's currency) from oil magnate James Whitaker, along with contributions by the American Baptist Education Society, helped to found the University. The University's land was donated by Marshall Field, owner of the historic Chicago department store that bore his name.</p>
-                        <p>Christopher Smith, the University's first president, envisioned a university that was "bran splinter new, yet as solid as the ancient hills" - a modern research university..</p>
+                        <p>True enough, this came into reality when the envisioned institution was granted government recognition on June 5, 1992 as Mati Polytechnic Institute (MPI). It opened its doors to the first 600 enrollees, having for its school/rooms the abandoned, almost dilapidated and defunct Mati Baptist Hospital.</p>
+                        <p>The nucleus was its vocational and technological courses: the one-year course of Diesel Automotive Mechanics, the two-year course of Business and Office Management, Nursing Aide, Pharmacy Aide and Computer Technology. Since the turning out of its pioneer graduates last school year 1992-1993, the graduates of MPI are now serving the different sectors of the community. Indeed, students have been provided with a high quality of education, by hiring the teaching services of very competent instructors, introducing modern equipment, and giving a most completely furnished library. The students were also provided to what used to be the "luxury of the rich", namely, the technical and actual training in computer. In the same year, the students were exposed to a different and actual process of learning through educational tours and on the job training in Davao City.</p>
+                        <p>As early as 1992, the institution embarked into a community reach-out activity to the "almost forgotten people" of the "almost unreachable sitios" of Davao Oriental. These people, whose sight of medical and dental doctors, nurses and aides means hope, have been grateful beneficiaries of the outreach program of Mati Polytechnic Institute.</p>
+                        <p>In 1994, first and second year high school whose classes were scheduled in the late afternoon were introduced. This was intended to cater to the working class who cannot attend regular classes in the morning and who work to afford them a secondary education. Computer training has been introduced in their curriculum. Later, Mati Polytechnic Institute transferred to a new location since the Mati Baptist Hospital was already unfit for occupancy.</p>
+                        <p>Now, Mati Polytechnic Institute underwent significant metamorphic changes from INSTITUTE to COLLEGE.</p>
+                        <p>1997 was a banner year for Mati Polytechnic Institute. Still seeing the insufficiency of the educational needs of the youth of Davao Oriental, Mr. Aresio M. Agbong, the founder-president, sought the approval for the offering of four-year courses of the Department of Education, Culture and Sports (DECS) True enough, the school was granted permits to offer the following Baccalaureate Courses: Bachelor of Science in Criminology (July 9, 1997), Bachelor of Science in Commerce (October 16, 1997) and, Bachelor of Elementary Education (November 25, 1997). With these permits, the school was able to apply for a change name from Mati Polytechnic Institute (MPI) to Mati Polytechnic College Inc., (MPC) and was given its final approval the Securities and Exchange Commission last April 18, 2000.</p>
+                        <p>The offering of such courses like the technical and vocational courses and four-year courses in Criminology, Commerce and Elementary Education, and the two-year Associate in Computer Science only shows Mati Polytechnic College Inc., as a serious and innovative educational institution.</p>
+
+                        <p>During the school year 2000-2001, MPC began offering Master of Arts in Education as an extension program of the University of San Agustin (USA) in Iloilo City, by virtue of Resolution no. R.241-2000 dated June 23, 2000, in response to the demand of the elementary and secondary school teachers of the neighboring districts of Mati and Tarragona who would like to pursue their post-graduate studies. MPC understood and felt that with the soaring prices nowadays, these teachers could economize on their transportation expenses. Instead of going to Tagum City or Davao City, they can take their post-graduate studies here in MPC, since the professors are also experts and experience teachers in education.</p>
+                        <p>The graduate courses offered were envisioned to meet the needs for trained and skilled personnel in the fast growing and highly progressive Mati as well as in other places in Davao Oriental and in Mindanao. It also aimed to meet the great demand for trained men and women to maintain peace and order in the fast-growing communities, particularly, in the Municipality of Mati.</p>
+                        <p>The dream of Mati Polytechnic College to earn its place in the academic world is finally a reality. This is done through the united efforts of many people who have contributed greatly to its success, most especially to its founder and president. With abiding faith in God, a number of good records have been exemplified by its graduates in scholastic achievement and community services.</p>
+                        <p>For school year 2016-2017, MPC open its doors for the K-12 program upon approval of its application with CHED. The president made additional features for the rooms of junior and senior high school by providing air-conditioned rooms including the canteen, library and, other amenities.</p>
+                        <p>Above all, Mati Polytechnic College Inc., (MPC) is now committed to the total transformation of the academic and technical well-being of the youth of Davao Oriental. It continues to bring hope to thousands of youth in the region by providing various opportunities in enhancing their idealism and dreams bearing in mind that one day they themselves will become the bearers of total social progress and development in their own respective places.</p>
+                        <p>MATI POLYTECHNIC COLLEGE IS EVERYBODY'S COMMITMENT NOW AND IN THE FUTURE.</p>
                     </div>
                 </div>
             </div>
         </section>
-      
-        <section class="section novi-background bg-cover section-70 section-md-114 bg-default">
-            <div class="shell">
-                <h2 class="text-bold">Statistics</h2>
-                <hr class="divider bg-madison">
-                <div class="range range-65 range-xs-center range-md-left offset-top-55 counters">
-                    <div class="cell-sm-6 cell-md-3">
-                        <div class="counter-type-1"><span class="icon novi-icon icon-lg icon-outlined text-madison mdi mdi-school"></span>
-                            <div class="h3 text-bold text-primary offset-top-15"><span class="counter">97</span><span class="symbol">%</span></div>
-                            <hr class="divider bg-gray-light divider-sm">
-                            <div class="offset-top-10">
-                                <h6 class="text-black font-accent">Graduates</h6>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="cell-sm-6 cell-md-3">
-                        <div class="counter-type-1"><span class="icon novi-icon icon-lg icon-outlined text-madison mdi mdi-wallet-travel"></span>
-                            <div class="h3 text-bold text-primary offset-top-15"><span class="counter">30</span><span class="symbol">+</span></div>
-                            <hr class="divider bg-gray-light divider-sm">
-                            <div class="offset-top-10">
-                                <h6 class="text-black font-accent">Certified Teachers</h6>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="cell-sm-6 cell-md-3">
-                        <div class="counter-type-1"><span class="icon novi-icon icon-lg icon-outlined text-madison mdi mdi-domain"></span>
-                            <div class="h3 text-bold text-primary offset-top-15"><span class="counter">8</span><span class="symbol"></span></div>
-                            <hr class="divider bg-gray-light divider-sm">
-                            <div class="offset-top-10">
-                                <h6 class="text-black font-accent">Student Campuses</h6>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="cell-sm-6 cell-md-3">
-                        <div class="counter-type-1"><span class="icon novi-icon icon-lg icon-outlined text-madison mdi mdi-account-multiple-outline"></span>
-                            <div class="h3 text-bold text-primary offset-top-15"><span class="counter">6510</span><span class="symbol"></span></div>
-                            <hr class="divider bg-gray-light divider-sm">
-                            <div class="offset-top-10">
-                                <h6 class="text-black font-accent">Students</h6>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+
+
         <?php include('includes/footer.php'); ?>
     </div>
     <!-- <div class="snackbars" id="form-output-global"></div><a class="builder-button" href="http://whizthemes.com/builder/b_patshala/patshala-builder" target="_blank"><img src="images/novi-icon-26x26.png" alt="" width="26" height="26">Try builder</a> -->

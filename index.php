@@ -27,7 +27,7 @@
         <section class="section">
             <div class="swiper-container swiper-slider swiper-slider-modern swiper-slider-2" data-loop="true" data-dragable="false" data-slide-effect="fade">
                 <div class="swiper-wrapper">
-                    <div class="swiper-slide" data-slide-bg="images/slide-04-1920x810.jpg" style="background-position: 80% center">
+                    <div class="swiper-slide" data-slide-bg="images/slide1.png" style="background-position: 80% center">
                         <div class="swiper-slide-caption section-70">
                             <div class="container">
                                 <div class="range range-xs-center">
@@ -90,29 +90,8 @@
                 <div class="swiper-pagination"></div>
             </div>
         </section>
-        <!-- <section class="section novi-background bg-cover section-70 section-md-114 bg-default">
-            <div class="shell">
-                <div class="range range-50">
-                    <div class="cell-sm-4 cell-sm-push-2 text-sm-left">
-                        <div class="inset-sm-left-50"><img class="img-responsive reveal-inline-block img-rounded" src="images/users/user-christopher-smith-340x300.jpg" alt="" width="340" height="300">
-                            <div class="offset-top-20">
-                                <h6 class="text-primary text-bold">Christopher Smith</h6>
-                            </div>
-                            <p>First president of the Patshala University, served from 1876 to 1897.</p>
-                        </div>
-                    </div>
-                    <div class="cell-sm-8 cell-sm-push-1 text-sm-left">
-                        <h2 class="text-bold">About the Colegio de Caraga, Inc.</h2>
-                        <hr class="divider bg-madison hr-sm-left-0">
-                        <div class="offset-top-30 offset-sm-top-30">
-                            <p>The original board of trustees laid the groundwork for what would become today's James Whitaker University on July 9, 1876, when the group gathered to hold the University's inaugural board meeting and drafted the University's articles of incorporation. This guiding document outlined elements the founders believed would build an enduring legacy for the University: a commitment to offering a rigorous academic program and an ambition to provide "opportunities for all departments of higher education to persons of both sexes on equal terms." On September 10, 1876, the State of California issued the University's official certificate of incorporation, marking the formal beginning of the University's life.</p>
-                        </div>
-                        <p>An initial pledge of $600,000 (roughly $16 million in today's currency) from oil magnate James Whitaker, along with contributions by the American Baptist Education Society, helped to found the University. The University's land was donated by Marshall Field, owner of the historic Chicago department store that bore his name.</p>
-                        <p>Christopher Smith, the University's first president, envisioned a university that was "bran splinter new, yet as solid as the ancient hills" - a modern research university..</p>
-                    </div>
-                </div>
-            </div>
-        </section> -->
+
+
         <section class="section context-dark section-image-aside section-image-aside-left">
             <div class="novi-background bg-cover section-70 section-md-114 bg-madison">
                 <div class="shell">
@@ -120,62 +99,59 @@
                         <div class="cell-xs-10 cell-sm-7 text-sm-left">
                             <div class="section-image-aside-img bg-cover veil reveal-sm-block" style="background-image: url(images/featured-courses.png)"></div>
                             <div class="section-image-aside-body inset-sm-left-70 inset-lg-left-110">
-                                <h2 class="text-bold">Our Featured Courses</h2>
+                                <h2 class="text-bold">Our Courses</h2>
                                 <hr class="divider hr-sm-left-0 bg-white">
-                                <div class="offset-top-30 offset-md-top-30 text-light">Our Featured Courses are selected through a rigorous process and uniquely created for each semester.</div>
+                                <div class="offset-top-30 offset-md-top-30 text-light">Our selected courses are thoughtfully curated and updated each semester to reflect the current academic priorities and learning needs.</div>
                                 <div class="text-left post-vacation-wrap offset-top-30">
                                     <article class="post-vacation"><a class="post-vacation-img-wrap bg-cover bg-image" href="course-details.html" style="background-image: url(images/course-01-150x120.jpg)"></a>
                                         <div class="post-vacation-body">
                                             <div>
-                                                <h6 class="post-vacation-title"><a href="course-details.html">Financial Analyst Course</a></h6>
+                                                <h6 class="post-vacation-title"><a href="#">Bachelor of Science in Criminology</a></h6>
                                             </div>
                                             <div class="offset-lg-top-10">
-                                                <p>Charles Banks</p>
+                                                <p><a href="#" style="color: #000000;">View Details</a></p>
+
                                             </div>
-                                            <div class="post-vacation-meta offset-top-10"><time class="text-dark" datetime="2018-01-01">June 3, 2018</time>
-                                                <ul class="list-inline list-unstyled list-inline-primary">
-                                                    <li><a class="icon novi-icon icon-xxs mdi mdi-timer-sand" href="#" data-toggle="tooltip" data-placement="top" title="Part time"></a></li>
-                                                    <li><a class="icon novi-icon icon-xxs mdi mdi-star" href="#" data-toggle="tooltip" data-placement="top" title="Certified"></a></li>
-                                                    <li><a class="icon novi-icon icon-xxs mdi mdi-laptop-chromebook" href="#" data-toggle="tooltip" data-placement="top" title="Online Course"></a></li>
-                                                </ul>
-                                            </div>
+
                                         </div>
                                     </article>
                                     <article class="post-vacation"><a class="post-vacation-img-wrap bg-cover bg-image" href="course-details.html" style="background-image: url(images/course-02-150x120.jpg)"></a>
                                         <div class="post-vacation-body">
                                             <div>
-                                                <h6 class="post-vacation-title"><a href="course-details.html">Digital Marketing Course</a></h6>
+                                                <h6 class="post-vacation-title"><a href="#">Bachelor of Technical-Vocational Teacher Education</a></h6>
                                             </div>
                                             <div class="offset-lg-top-10">
-                                                <p>Maria Howard</p>
+                                                <p><a href="#" style="color: #000000;">View Details</a></p>
                                             </div>
-                                            <div class="post-vacation-meta offset-top-10"><time class="text-dark" datetime="2018-01-01">June 3, 2018</time>
-                                                <ul class="list-inline list-unstyled list-inline-primary">
-                                                    <li><a class="icon novi-icon icon-xxs mdi mdi-battery-50" href="#" data-toggle="tooltip" data-placement="top" title="Facultative"></a></li>
-                                                    <li><a class="icon novi-icon icon-xxs mdi mdi-star" href="#" data-toggle="tooltip" data-placement="top" title="Certified"></a></li>
-                                                </ul>
-                                            </div>
+
                                         </div>
                                     </article>
+
+                                    <article class="post-vacation"><a class="post-vacation-img-wrap bg-cover bg-image" href="course-details.html" style="background-image: url(images/tesda.png)"></a>
+                                        <div class="post-vacation-body">
+                                            <div>
+                                                <h6 class="post-vacation-title"><a href="#">TESDA Programs</a></h6>
+                                            </div>
+                                            <div class="offset-lg-top-10">
+                                                <p><a href="#" style="color: #000000;">View Details</a></p>
+                                            </div>
+
+                                        </div>
+                                    </article>
+
                                     <article class="post-vacation"><a class="post-vacation-img-wrap bg-cover bg-image" href="course-details.html" style="background-image: url(images/course-03-150x120.jpg)"></a>
                                         <div class="post-vacation-body">
                                             <div>
-                                                <h6 class="post-vacation-title"><a href="course-details.html">Graphic Design Course</a></h6>
+                                                <h6 class="post-vacation-title"><a href="#">Senior High School Program</a></h6>
                                             </div>
                                             <div class="offset-lg-top-10">
-                                                <p>Steven Carter</p>
+                                                <p><a href="#" style="color: #000000;">View Details</a></p>
                                             </div>
-                                            <div class="post-vacation-meta offset-top-10"><time class="text-dark" datetime="2018-01-01">June 3, 2018</time>
-                                                <ul class="list-inline list-unstyled list-inline-primary">
-                                                    <li><a class="icon novi-icon icon-xxs mdi mdi-battery-50" href="#" data-toggle="tooltip" data-placement="top" title="Facultative"></a></li>
-                                                    <li><a class="icon novi-icon icon-xxs mdi mdi-star" href="#" data-toggle="tooltip" data-placement="top" title="Certified"></a></li>
-                                                    <li><a class="icon novi-icon icon-xxs mdi mdi-laptop-chromebook" href="#" data-toggle="tooltip" data-placement="top" title="Online Course"></a></li>
-                                                </ul>
-                                            </div>
+
                                         </div>
                                     </article>
                                 </div>
-                                <div class="offset-top-60"><a class="btn btn-primary" href="course-details.html">View All Courses</a></div>
+
                             </div>
                         </div>
                     </div>
@@ -235,7 +211,7 @@
                             <div class="cell-sm-9 cell-sm-push-1">
                                 <div class="quote-classic-boxed text-center">
                                     <div class="quote-body"><q>When you work full-time while studying, you need to sacrifice personal time, which meant that I took my studies seriously. My ambition was not only to complete my degree successfully but to make the best out of the time spent studying.</q>
-                                        <div class="offset-top-30 text-center"><cite class="font-accent">Debra Banks</cite>
+                                        <div class="offset-top-30 text-center"><cite class="font-accent">Chiko Bolero</cite>
                                             <div class="offset-top-5">
                                                 <p class="text-dark text-italic">Diploma for Graduates in Art, USA</p>
                                             </div>
@@ -252,7 +228,7 @@
                             <div class="cell-sm-9 cell-sm-push-1">
                                 <div class="quote-classic-boxed text-center">
                                     <div class="quote-body"><q>When I researched the programmes available I realized that the University was offering exactly the type of programme in international development that interested me.</q>
-                                        <div class="offset-top-30 text-center"><cite class="font-accent">Steven Alvarez</cite>
+                                        <div class="offset-top-30 text-center"><cite class="font-accent">Chiko Bolero</cite>
                                             <div class="offset-top-5">
                                                 <p class="text-dark text-italic">Diploma for Graduates in International Development, USA</p>
                                             </div>
