@@ -242,6 +242,39 @@
             </div>
         </section>
 
+        <!-- Announcement Section -->
+        <section class="section bg-default p-0 m-0">
+            <div class="container-fluid p-0">
+                <div class="text-center py-4">
+                    <h2 class="text-bold">Announcements</h2>
+                    <hr class="divider bg-madison mx-auto" style="width: 100px;">
+                </div>
+
+                <div class="swiper-container swiper-slider" data-loop="true" data-autoplay="5000" data-simulate-touch="true">
+                    <div class="swiper-wrapper">
+                        <!-- Slide 1 -->
+                        <div class="swiper-slide">
+                            <img src="images/announcements/announcement1.jpg" style="width: 100%; height: auto; display: block;" alt="Announcement 1">
+                        </div>
+                        <!-- Slide 2 -->
+                        <div class="swiper-slide">
+                            <img src="images/announcements/announcement2.jpg" style="width: 100%; height: auto; display: block;" alt="Announcement 2">
+                        </div>
+                        <!-- Slide 3 -->
+                        <div class="swiper-slide">
+                            <img src="images/announcements/announcement3.jpg" style="width: 100%; height: auto; display: block;" alt="Announcement 3">
+                        </div>
+                    </div>
+
+                    <!-- Navigation -->
+                    <div class="swiper-button-prev"></div>
+                    <div class="swiper-button-next"></div>
+                    <div class="swiper-pagination"></div>
+                </div>
+            </div>
+        </section>
+
+
         <?php include('includes/footer.php'); ?>
 
     </div>

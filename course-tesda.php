@@ -67,10 +67,10 @@
 
         <section class="section breadcrumb-modern context-dark parallax-container"
             data-parallax-img="images/parallax-03.jpg">
-            <div class="parallax-content section-30 section-sm-70">
+            <div class="parallax-content pt-3 pb-3">
                 <div class="shell">
-                    <h2 class="veil reveal-sm-block">Technical Education and Skills Development Authority</h2>
-                    <div class="offset-sm-top-35">
+                    <h2 class="veil reveal-sm-block">TESDA Programs</h2>
+                    <div class="mt-2">
                         <ul class="list-inline list-inline-lg list-inline-dashed p">
                             <li><a href="index.php">Home</a></li>
                             <li>TESDA Programs</li>
@@ -80,7 +80,8 @@
             </div>
         </section>
 
-        <section class="section novi-background bg-cover section-70 section-md-114 bg-default">
+        <!-- Main TESDA Section with tighter spacing -->
+        <section class="section novi-background bg-cover pt-4 pb-5 bg-default">
             <div class="shell text-left highlight-section">
                 <h3 class="text-bold">TESDA Programs</h3>
                 <hr class="divider bg-madison hr-sm-left-0">
@@ -104,10 +105,11 @@
                         These programs are aligned with TESDA’s mission to develop Filipino workforce competencies and enhance employment opportunities through practical and industry-relevant training.
                     </p>
 
-                    <img src="images/slide1.png" alt="TESDA Training Programs">
+                    <img src="images/course-tesda.jpg" alt="TESDA Training Programs">
                 </div>
             </div>
         </section>
+
 
         <?php include('includes/footer.php'); ?>
     </div>

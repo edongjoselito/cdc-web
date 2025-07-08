@@ -19,31 +19,49 @@
         body {
             font-size: 18px;
             line-height: 1.8;
+            margin: 0;
         }
 
         h3 {
-            font-size: 32px;
+            font-size: 28px;
             margin-bottom: 10px;
         }
 
         h5 {
-            font-size: 22px;
+            font-size: 20px;
             color: #004085;
-            margin-top: 40px;
+            margin-top: 20px;
+            margin-bottom: 10px;
         }
+
+        p {
+            margin-bottom: 15px;
+        }
+
 
 
         .highlight-section {
             background-color: #f8f9fa;
-            padding: 50px 20px;
+            padding: 25px 20px;
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.03);
+        }
+
+        .section {
+            padding-top: 30px !important;
+            padding-bottom: 30px !important;
+        }
+
+        .section-70,
+        .section-md-114 {
+            padding-top: 30px !important;
+            padding-bottom: 30px !important;
         }
 
         .shell img {
             max-width: 100%;
             height: auto;
-            margin-top: 30px;
+            margin-top: 20px;
             border-radius: 8px;
         }
 
@@ -51,8 +69,9 @@
             font-weight: 700;
         }
 
-        p {
-            margin-bottom: 20px;
+        .parallax-content {
+            padding-top: 20px !important;
+            padding-bottom: 20px !important;
         }
     </style>
 </head>
@@ -71,7 +90,7 @@
             <div class="parallax-content section-30 section-sm-70">
                 <div class="shell">
                     <h2 class="veil reveal-sm-block">Bachelor of Science in Criminology</h2>
-                    <div class="offset-sm-top-35">
+                    <div style="margin-top: 10px;">
                         <ul class="list-inline list-inline-lg list-inline-dashed p">
                             <li><a href="index.php">Home</a></li>
                             <li>Criminology</li>
@@ -85,7 +104,7 @@
             <div class="shell text-left highlight-section">
                 <h3 class="text-bold">Bachelor of Science in Criminology</h3>
                 <hr class="divider bg-madison hr-sm-left-0">
-                <div class="offset-top-30">
+                <div style="margin-top: 10px;">
 
                     <p>
                         The Bachelor of Science in Criminology (BS Crim) is a dynamic undergraduate degree designed to
@@ -119,7 +138,6 @@
                         to pursue meaningful roles in promoting peace, justice, and public safety in the community.
                     </p>
 
-                    <!-- Optional course image -->
                     <img src="images/slide1.png" alt="BS Criminology">
 
                 </div>
