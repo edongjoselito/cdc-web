@@ -86,7 +86,7 @@
         <?php include('includes/header.php'); ?>
 
         <section class="section breadcrumb-modern context-dark parallax-container"
-            data-parallax-img="images/parallax-03.jpg">
+            data-parallax-img="images/banner-per-page.png">
             <div class="parallax-content section-30 section-sm-70">
                 <div class="shell">
                     <h2 class="veil reveal-sm-block">Bachelor of Science in Criminology</h2>
@@ -138,7 +138,7 @@
                         to pursue meaningful roles in promoting peace, justice, and public safety in the community.
                     </p>
 
-                    <img src="images/slide1.png" alt="BS Criminology">
+                    <img src="images/bs-crim-image.png" alt="BS Criminology">
 
                 </div>
             </div>

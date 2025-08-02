@@ -65,7 +65,7 @@
         <?php include('includes/header.php'); ?>
 
         <section class="section breadcrumb-modern context-dark parallax-container"
-            data-parallax-img="images/parallax-03.jpg">
+            data-parallax-img="images/banner-per-page.png">
             <div class="parallax-content section-10 section-sm-40">
                 <div class="shell">
                     <h2 class="veil reveal-sm-block">Junior and Senior High School Program</h2>
@@ -131,7 +131,7 @@
                         </p>
                     </div>
 
-                    <img src="images/slide1.png" alt="Senior High School Program">
+                    <img src="images/jhs-shs.png" alt="Senior High School Program">
                 </div>
             </div>
         </section>

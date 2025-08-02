@@ -93,7 +93,7 @@
         <?php include('includes/header.php'); ?>
 
         <section class="section breadcrumb-modern context-dark parallax-container"
-            data-parallax-img="images/parallax-03.jpg">
+            data-parallax-img="images/banner-per-page.png">
             <div class="parallax-content section-30 section-sm-70">
                 <div class="shell">
                     <h2 class="veil reveal-sm-block">Bachelor in Technical-Vocational Teacher Education</h2>
@@ -146,7 +146,7 @@
                         workforce needs.
                     </p>
 
-                    <img src="images/slide1.png" alt="BTVTE Program">
+                    <img src="images/btvted-image.png" alt="BTVTE Program">
 
                 </div>
             </div>

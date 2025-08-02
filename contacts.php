@@ -24,7 +24,7 @@
 
         <?php include('includes/header.php'); ?>
 
-        <section class="section breadcrumb-modern context-dark parallax-container" data-parallax-img="images/parallax-03.jpg">
+        <section class="section breadcrumb-modern context-dark parallax-container" data-parallax-img="images/banner-per-page.png">
             <div class="parallax-content section-30 section-sm-70">
                 <div class="shell">
                     <h2 class="veil reveal-sm-block">Contact US</h2>

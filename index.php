@@ -27,7 +27,7 @@
         <section class="section">
             <div class="swiper-container swiper-slider swiper-slider-modern swiper-slider-2" data-loop="true" data-dragable="false" data-slide-effect="fade">
                 <div class="swiper-wrapper">
-                    <div class="swiper-slide" data-slide-bg="images/slide1.png" style="background-position: 80% center">
+                    <div class="swiper-slide" data-slide-bg="images/home-page-banner.png" style="background-position: 80% center">
                         <div class="swiper-slide-caption section-70">
                             <div class="container">
                                 <div class="range range-xs-center">
@@ -46,7 +46,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="swiper-slide" data-slide-bg="images/slide-02-1920x810.jpg" style="background-position: 80% center">
+                    <div class="swiper-slide" data-slide-bg="images/home-page-banner.png" style="background-position: 80% center">
                         <div class="swiper-slide-caption section-70">
                             <div class="container">
                                 <div class="range range-xs-center">
@@ -97,31 +97,31 @@
                 <div class="shell">
                     <div class="range range-xs-center range-sm-right offset-top-0">
                         <div class="cell-xs-10 cell-sm-7 text-sm-left">
-                            <div class="section-image-aside-img bg-cover veil reveal-sm-block" style="background-image: url(images/featured-courses.png)"></div>
+                            <div class="section-image-aside-img bg-cover veil reveal-sm-block" style="background-image: url(images/860x1002.png)"></div>
                             <div class="section-image-aside-body inset-sm-left-70 inset-lg-left-110">
                                 <h2 class="text-bold">Our Courses</h2>
                                 <hr class="divider hr-sm-left-0 bg-white">
                                 <div class="offset-top-30 offset-md-top-30 text-light">Our selected courses are thoughtfully curated and updated each semester to reflect the current academic priorities and learning needs.</div>
                                 <div class="text-left post-vacation-wrap offset-top-30">
-                                    <article class="post-vacation"><a class="post-vacation-img-wrap bg-cover bg-image" href="course-details.html" style="background-image: url(images/course-01-150x120.jpg)"></a>
+                                    <article class="post-vacation"><a class="post-vacation-img-wrap bg-cover bg-image" href="course-details.html" style="background-image: url(images/criminology-logo.png)"></a>
                                         <div class="post-vacation-body">
                                             <div>
-                                                <h6 class="post-vacation-title"><a href="#">Bachelor of Science in Criminology</a></h6>
+                                                <h6 class="post-vacation-title"><a href="course-bs-crim.php">Bachelor of Science in Criminology</a></h6>
                                             </div>
                                             <div class="offset-lg-top-10">
-                                                <p><a href="#" style="color: #000000;">View Details</a></p>
+                                                <p><a href="course-bs-crim.php" style="color: #000000;">View Details</a></p>
 
                                             </div>
 
                                         </div>
                                     </article>
-                                    <article class="post-vacation"><a class="post-vacation-img-wrap bg-cover bg-image" href="course-details.html" style="background-image: url(images/course-02-150x120.jpg)"></a>
+                                    <article class="post-vacation"><a class="post-vacation-img-wrap bg-cover bg-image" href="course-details.html" style="background-image: url(images/btvted-logo.png)"></a>
                                         <div class="post-vacation-body">
                                             <div>
-                                                <h6 class="post-vacation-title"><a href="#">Bachelor of Technical-Vocational Teacher Education</a></h6>
+                                                <h6 class="post-vacation-title"><a href="course-btvted.php">Bachelor of Technical-Vocational Teacher Education</a></h6>
                                             </div>
                                             <div class="offset-lg-top-10">
-                                                <p><a href="#" style="color: #000000;">View Details</a></p>
+                                                <p><a href="course-btvted.php" style="color: #000000;">View Details</a></p>
                                             </div>
 
                                         </div>
@@ -130,22 +130,22 @@
                                     <article class="post-vacation"><a class="post-vacation-img-wrap bg-cover bg-image" href="course-details.html" style="background-image: url(images/tesda.png)"></a>
                                         <div class="post-vacation-body">
                                             <div>
-                                                <h6 class="post-vacation-title"><a href="#">TESDA Programs</a></h6>
+                                                <h6 class="post-vacation-title"><a href="course-tesda.php">TESDA Programs</a></h6>
                                             </div>
                                             <div class="offset-lg-top-10">
-                                                <p><a href="#" style="color: #000000;">View Details</a></p>
+                                                <p><a href="course-tesda.php" style="color: #000000;">View Details</a></p>
                                             </div>
 
                                         </div>
                                     </article>
 
-                                    <article class="post-vacation"><a class="post-vacation-img-wrap bg-cover bg-image" href="course-details.html" style="background-image: url(images/course-03-150x120.jpg)"></a>
+                                    <article class="post-vacation"><a class="post-vacation-img-wrap bg-cover bg-image" href="course-details.html" style="background-image: url(images/shs-logo.png)"></a>
                                         <div class="post-vacation-body">
                                             <div>
-                                                <h6 class="post-vacation-title"><a href="#">Senior High School Program</a></h6>
+                                                <h6 class="post-vacation-title"><a href="course-shs.php">Senior High School Program</a></h6>
                                             </div>
                                             <div class="offset-lg-top-10">
-                                                <p><a href="#" style="color: #000000;">View Details</a></p>
+                                                <p><a href="course-shs.php" style="color: #000000;">View Details</a></p>
                                             </div>
 
                                         </div>

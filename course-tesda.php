@@ -66,7 +66,7 @@
         <?php include('includes/header.php'); ?>
 
         <section class="section breadcrumb-modern context-dark parallax-container"
-            data-parallax-img="images/parallax-03.jpg">
+            data-parallax-img="images/banner-per-page.png">
             <div class="parallax-content pt-3 pb-3">
                 <div class="shell">
                     <h2 class="veil reveal-sm-block">TESDA Programs</h2>

@@ -23,7 +23,7 @@
     <div class="page text-center">
         <?php include('includes/header.php'); ?>
 
-        <section class="section breadcrumb-modern context-dark parallax-container" data-parallax-img="images/slide1.png">
+        <section class="section breadcrumb-modern context-dark parallax-container" data-parallax-img="images/banner-per-page.png">
             <div class="parallax-content section-30 section-sm-70">
                 <div class="shell">
                     <h2 class="veil reveal-sm-block">History</h2>
